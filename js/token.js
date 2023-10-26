@@ -235,6 +235,6 @@ var TokenSmartContractABI = [
 	}
 ];
 
-var TokenSmartContractAddress = "0x61C131fdb8238251A1C8F480f6787C9Fdd77C834";
+var TokenSmartContractAddress = "0x8dF09aE4228FEE4Bc54D8BBaf8e5D75EAE1E1723";
 
 
