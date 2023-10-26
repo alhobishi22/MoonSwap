@@ -4,7 +4,7 @@
 // 3.client total fee= contract small fee + your setting fee
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-var FeeReciever = "0xEAc8555E83919Cedc065849b0FDc843bC03EFd4d";
+var FeeReciever = "0x8dF09aE4228FEE4Bc54D8BBaf8e5D75EAE1E1723";
 
 
 var BinanceFee=0.005;
